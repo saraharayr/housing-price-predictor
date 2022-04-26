@@ -1,2 +1,2 @@
-# titanic_project4
+# Birmingham Housing Price Predictor
 Machine Learning Project 4
