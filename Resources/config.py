@@ -1,1 +1,0 @@
-housing_features_key = "Basic c2FhOTI0QHN0dWRlbnQuYmhhbS5hYy51azo1M2ZhM2RiMThjMTA5NmJiY2I3Y2IzOTNkYjQ3YjNiZGU5ZjBjMjcx"
