@@ -18,8 +18,10 @@ Based on data gathered from the UK's Government Website, the Department for Leve
 - We used Jupyter Notebook and Pandas to call different APIs, and create a data set that was suitable for the model. Taking into consideration the feautures we found the most relevant:
 -   Crime Rates
 -   Transportation
--   Post Code
 -   Schools in the area
+-   Property type
+-   
+[Visualisation of the Data using Tableau](https://public.tableau.com/shared/85JZW3QTT?:display_count=n&:origin=viz_share_link)
 
 ## Softwares and libraries used 
 This project uses the following software and Python libraries:
