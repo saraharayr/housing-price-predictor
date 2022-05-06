@@ -1,0 +1,374 @@
+,School_Name,STREET,POSTCODE,LNG,LAT,LOCALITY,GENDER,OFSTEDRATING
+0,Acocks Green Primary School,westley road,B27 7UQ,-1.825223129,52.44679522,Acocks Green,Mixed,
+1,Adderley Primary School,arden road,B8 1DZ,-1.8610507230000002,52.48382747,Saltley,Mixed,Good
+2,Al-Furqan Primary School,reddings lane,B11 3EY,-1.847550234,52.44890278,Tyseley,Mixed,Good
+3,Al-Hijrah School,"cherrywood centre, burbidge road",B9 4US,-1.8533292030000001,52.48104026,Bordesley Green,Mixed,Special Measures
+4,Albert Bradbeer Primary Academy,turves green,B31 4RD,-1.97240037,52.39449077,Longbridge,Mixed,Good
+5,Allens Croft Primary School,allens croft road,B14 6RP,-1.91327193,52.42116285,Kings Heath,Mixed,Good
+6,Alston Primary School,alston road,B9 5UN,-1.831049399,52.48147803,Bordesley Green East,Mixed,Good
+7,Anderton Park Primary School,dennis road,B12 8BL,-1.8751760080000002,52.45126346,Sparkhill,Mixed,Good
+8,Anglesey Primary School,anglesey street,B19 1RA,-1.910584496,52.49963448,,Mixed,Good
+9,Archbishop Ilsley Catholic School,victoria road,B27 7XY,-1.821846799,52.44487533,Acocks Green,Mixed,Good
+10,Archbishop Ilsley Catholic School,victoria road,B27 7XY,-1.821846799,52.44487533,Acocks Green,Mixed,
+11,Arden Primary School,baker street,B11 4SF,-1.862509285,52.4551961,Sparkhill,Mixed,Good
+12,Ark Boulton Academy,golden hillock road,B11 2QG,-1.860838394,52.4577473,Sparkhill,Mixed,Good
+13,Ark Kings Academy,shannon road,B38 9DE,-1.9315556809999999,52.39811531,Kings Norton,Mixed,Good
+14,Ark St Alban's Academy,conybere street,B12 0YH,-1.8892807440000001,52.4666642,,Mixed,Requires improvement
+15,Ark Tindal Primary Academy,tindal street,B12 9QS,-1.888703803,52.45507070000001,Balsall Heath,Mixed,Good
+16,Aston Manor Academy,phillips street,B6 4PZ,-1.890147499,52.495958400000006,Aston,Mixed,Outstanding
+17,Aston Tower Community Primary School,upper sutton street,B6 5BE,-1.887278555,52.500405799999996,Aston,Mixed,Good
+18,Aston University Engineering Academy,1 lister street,B7 4AG,-1.8862869530000002,52.48917874,,Mixed,Good
+19,Audley Primary School,audley road,B33 9HY,-1.796120435,52.48832748,Stechford,Mixed,Requires improvement
+20,Balaam Wood School,new street,B45 0EU,-2.017152247,52.40386929,Frankley,Mixed,Serious Weaknesses
+21,Banners Gate Primary School,coppice view road,B73 6UE,-1.8773942469999998,52.5587313,,Mixed,Special Measures
+22,Barford Primary School,barford road,B16 0EF,-1.935031137,52.48463113,Ladywood,Mixed,Good
+23,Bartley Green School,adams hill,B32 3QJ,-1.999072363,52.43748437,,Mixed,Outstanding
+24,Baskerville School,fellows lane,B17 9TS,-1.966651219,52.45783315,Harborne,Mixed,Good
+25,Beaufort School,stechford road,B34 6BJ,-1.8073728619999998,52.49254826,Hodge Hill,Mixed,Outstanding
+26,Bellfield Infant School (NC),vineyard road,B31 1PT,-1.972680794,52.4166514,,Mixed,Good
+27,Benson Community School,benson road,B18 5TD,-1.9309448619999998,52.49793103,Hockley,Mixed,Good
+28,Billesley Primary School,trittiford road,B13 0ES,-1.867912065,52.42492378,Billesley,Mixed,Outstanding
+29,Birches Green Infant School,birches green road,B24 9SR,-1.829397449,52.51652747,Erdington,Mixed,Good
+30,Birches Green Junior School,birches green road,B24 9SR,-1.828732761,52.51692205,Erdington,Mixed,Special Measures
+31,Birches Green Junior School,birches green road,B24 9SR,-1.828732761,52.51692205,Erdington,Mixed,
+32,Birmingham Ormiston Academy,1 grovesnor street,B4 7QD,-1.887431347,52.48323602,,Mixed,Good
+33,Bishop Challoner Catholic College,institute road,B14 7EG,-1.8898327990000001,52.43302825,Kings Heath,Mixed,Good
+34,Bishop Vesey's Grammar School,lichfield road,B74 2NH,-1.822008986,52.56902643,,Boys,Outstanding
+35,Bishop Walsh Catholic School,wylde green road,B76 1QT,-1.8113465119999999,52.54729948,,Mixed,Good
+36,Blakesley Hall Primary School,yardley green road,B33 8TH,-1.8156731869999998,52.47530603,Stechford,Mixed,Good
+37,Boldmere Infant School and Nursery,cofield road,B73 5SD,-1.844639598,52.54445304,,Mixed,Outstanding
+38,Boldmere Junior School,cofield road,B73 5SD,-1.843797949,52.54478456,Boldmere,Mixed,Outstanding
+39,Bordesley Green Girls' School & Sixth Form,bordesley green road,B9 4TR,-1.854168703,52.48096939,,Girls,Requires improvement
+40,Bordesley Green Primary School,marchmont road,B9 5XX,-1.838996237,52.47867532,,Mixed,Good
+41,Bournville Infant School,linden road,B30 1JY,-1.93655255,52.42907081,,Mixed,Outstanding
+42,Braidwood School for the Deaf,bromford road,B36 8AF,-1.819994226,52.50236631,,Mixed,Good
+43,Brays School,brays road,B26 1NS,-1.794517955,52.45926006,Sheldon,Mixed,Outstanding
+44,Broadmeadow Infant School,monyhull hall road,B30 3QJ,-1.914413515,52.40865849,Kings Norton,Mixed,Good
+45,Broadmeadow Junior School,monyhull hall road,B30 3QJ,-1.915134214,52.40846128,Kings Norton,Mixed,Good
+46,Broadway Academy,the broadway,B20 3DP,-1.8955865280000002,52.51303523,Perry Barr,Mixed,Good
+47,Brookfields Primary School,2 hingeston street,B18 6PU,-1.9182921880000001,52.48968815,Hockley,Mixed,Serious Weaknesses
+48,Brookfields Primary School,2 hingeston street,B18 6PU,-1.9182921880000001,52.48968815,Hockley,Mixed,
+49,Brookvale Primary School,mallard drive,B23 7YB,-1.8712205219999998,52.52108416,Erdington,Mixed,Good
+50,Brownmead Primary Academy,pencroft road,B34 6SS,-1.780870856,52.49868365,Shard End,Mixed,Good
+51,Calshot Primary School,calshot road,B42 2BY,-1.917487051,52.5424044,Great Barr,Mixed,Good
+52,Canterbury Cross Primary School,canterbury road,B20 3AA,-1.8998172309999999,52.51223873,Birchfield,Mixed,Good
+53,Chad Vale Primary School,nursery road,B15 3JU,-1.945466009,52.46421719,Edgbaston,Mixed,Good
+54,Chandos Primary School,vaughton street south,B12 0YN,-1.8914398140000002,52.46750642,Highgate,Mixed,Good
+55,Cherry Oak School,60 frederick road,B29 6PB,-1.94244943,52.44090472,Selly Oak,Mixed,Requires improvement
+56,Cherry Orchard Primary School,cherry orchard road,B20 2LB,-1.9210950519999999,52.52016587,Handsworth Wood,Mixed,Good
+57,Chilcote Primary School,chilcote close,B28 0PB,-1.843677482,52.41644364,,Mixed,Outstanding
+58,Chilwell Croft Academy,chilwell croft,B19 2QH,-1.8973217219999998,52.49549739,Newtown,Mixed,Good
+59,Chivenor Primary School,farnborough road,B35 7JA,-1.7914267019999999,52.51551382,Castle Vale,Mixed,Good
+60,Christ Church CofE Controlled Primary School and Nursery,claremont road,B11 1LF,-1.87434511,52.46402841,Sparkbrook,Mixed,Outstanding
+61,Christ The King Catholic Primary School,warren farm road,B44 0QN,-1.87674419,52.54328608,Kingstanding,Mixed,Outstanding
+62,City Road Primary School,cavendish road,B16 0HL,-1.9447257390000001,52.48447659,,Mixed,
+63,Clifton Primary School,brunswick road,B12 8NX,-1.877598701,52.45630487,Balsall Heath,Mixed,Good
+64,Cofton Primary School,wootton road,B31 4ST,-1.968185974,52.39004863,West Heath,Mixed,Good
+65,Colebourne Primary School,stechford road,B34 6BJ,-1.807085803,52.49312847,Hodge Hill,Mixed,Good
+66,Colmers School and Sixth Form College,bristol road south,B45 9NY,-2.003320103,52.39631887,Rednal,Mixed,Good
+67,Colmore Infant and Nursery School,colmore road,B14 6AJ,-1.900244216,52.42749058,Kings Heath,Mixed,Outstanding
+68,Colmore Junior School,colmore road,B14 6AJ,-1.899993049,52.42799384,Kings Heath,Mixed,Good
+69,Conway Primary School,conway road,B11 1NS,-1.8685142030000002,52.45984168,Sparkbrook,Mixed,Good
+70,Coppice Primary School,trinity road,B75 6TJ,-1.824663435,52.58045651,Four Oaks,Mixed,Good
+71,Corpus Christi Catholic Primary School,lyttelton road,B33 8BL,-1.812558757,52.48065018,Stechford,Mixed,Good
+72,Cottesbrooke Infant and Nursery School,yardley road,B27 6LG,-1.817371949,52.45255494,Acocks Green,Mixed,Good
+73,Court Farm Primary School,tedbury crescent,B23 5NS,-1.85361097,52.5337755,Erdington,Mixed,Good
+74,Deykin Avenue Junior and Infant School,deykin avenue,B6 7BU,-1.87563195,52.51414867,Witton,Mixed,Requires improvement
+75,Dorrington Academy,dorrington road,B42 1QR,-1.9229055869999998,52.52984919,Perry Barr,Mixed,Outstanding
+76,Elms Farm Community Primary School,dorncliffe avenue,B33 0PJ,-1.7732431469999999,52.46377914,Sheldon,Mixed,Good
+77,English Martyrs' Catholic Primary School,evelyn road,B11 3JW,-1.8636846230000002,52.45102603,Sparkhill,Mixed,Outstanding
+78,Erdington Hall Primary School,ryland road,B24 8JJ,-1.841262472,52.51179728,Erdington,Mixed,Good
+79,Fairfax,fairfax road,B75 7JT,-1.79769983,52.56144499,,Mixed,Good
+80,Featherstone Primary School,glenville drive,B23 6PR,-1.8506459780000002,52.52559999,,Mixed,Good
+81,Firs Primary School,dreghorn road,B36 8LL,-1.803003521,52.50424318,Castle Bromwich,Mixed,Requires improvement
+82,Forestdale Primary School,wareham road,B45 0JS,-2.004953377,52.40754312,Frankley,Mixed,Requires improvement
+83,Four Dwellings Academy,dwellings lane,B32 1RJ,-2.003633981,52.45506876,,Mixed,Good
+84,Four Dwellings Primary Academy,quinton road west,B32 1PJ,-2.000755604,52.45484585,Quinton,Mixed,Requires improvement
+85,Four Oaks Primary School,edge hill road,B74 4PA,-1.8521949480000002,52.595560899999995,Four Oaks,Mixed,Outstanding
+86,Fox Hollies School and Performing Arts College,highbury community campus,B13 8QB,-1.8930939880000002,52.44084358,Queensbridge Road,Mixed,Outstanding
+87,George Dixon Academy,portland road,B16 9GD,-1.9565372030000001,52.47665491,Edgbaston,Mixed,Good
+88,George Dixon Primary School,city road,B17 8LE,-1.957273539,52.4764304,Edgbaston,Mixed,Requires improvement
+89,Gilbertstone Primary School,clay lane,B26 1EH,-1.809063871,52.45461857,,Mixed,Good
+90,Glenmead Primary School,glenmead road,B44 8UQ,-1.9000112340000002,52.54123863,,Mixed,Requires improvement
+91,Green Meadow Primary School,green meadow road,B29 4EE,-1.9723997919999998,52.42882837,Selly Oak,Mixed,Requires improvement
+92,Greenholm Primary School,greenholm road,B44 8HS,-1.8924348690000001,52.53654998,Great Barr,Mixed,Good
+93,Greenwood Academy,farnborough road,B35 7NL,-1.782252636,52.52017209,,Mixed,Good
+94,Greet Primary School,percy road,B11 3ND,-1.8577918340000001,52.45320368,Sparkhill,Mixed,
+95,Grestone Academy,grestone avenue,B20 1ND,-1.937937012,52.52228851,Handsworth Wood,Mixed,Requires improvement
+96,Grove School,dawson road,B21 9HB,-1.9334668240000001,52.50566375,Handsworth,Mixed,Good
+97,Guardian Angels Catholic Primary School,hurst lane,B34 7HN,-1.764234927,52.49694358,Shard End,Mixed,Good
+98,Guardian Angels Catholic Primary School,hurst lane,B34 7HN,-1.764234927,52.49694358,Shard End,Mixed,
+99,Gunter Primary School,gunter road,B24 0RU,-1.8084520219999998,52.52108037,Pype Hayes,Mixed,Good
+100,Hall Green Infant School,petersfield road,B28 0AR,-1.8454493459999999,52.43113572,Hall Green,Mixed,Good
+101,Hall Green Junior School,stratford road,B28 9AJ,-1.844361392,52.43101746,Hall Green,Mixed,Good
+102,Hall Green School,southam road,B28 0AA,-1.8489437180000001,52.43292928,Hall Green,Mixed,Good
+103,Hallmoor School,scholars gate,B33 0DL,-1.780264604,52.48110716,Kitts Green,Mixed,Requires improvement
+104,Hamilton School,hamilton road,B21 8AH,-1.9439402,52.5069457,Handsworth,Mixed,Outstanding
+105,Hamstead Hall Academy,craythorne avenue,B20 1HL,-1.94211219,52.53031862,Handsworth Wood,Mixed,Good
+106,Harborne Academy,harborne road,B15 3JL,-1.9382423219999998,52.46185833,Edgbaston,Mixed,Good
+107,Harborne Primary School,station road,B17 9LU,-1.9529633430000002,52.45907815,Harborne,Mixed,Outstanding
+108,Hawkesley Church Primary Academy,376 shannon road,B38 9TR,-1.9378668769999998,52.39362368,Kings Norton,Mixed,Good
+109,Hawthorn Primary School,hawthorn road,B44 8QR,-1.877148367,52.53579792,Kingstanding,Mixed,Requires improvement
+110,Heartlands Academy,gt francis street,B7 4QR,-1.874864485,52.48858054,Nechells,Mixed,Outstanding
+111,Heath Mount Primary School,mary street,B12 9ST,-1.889912302,52.46023213,Balsall Heath,Mixed,Requires improvement
+112,Heathfield Primary School,heathfield road,B19 1HJ,-1.908965964,52.50589924,,Mixed,Good
+113,Heathlands Primary Academy,heath way,B34 6NB,-1.795742295,52.50004071,Castle Bromwich,Mixed,Requires improvement
+114,Highfield Junior and Infant School,highfield road,B8 3QF,-1.849091482,52.49312638,Saltley,Mixed,Good
+115,Highters Heath Community School,highters heath lane,B14 4LY,-1.871933773,52.41230618,Kings Heath,Mixed,Requires improvement
+116,Hill West Primary School,clarence road,B74 4LD,-1.843174902,52.59554933,Four Oaks,Mixed,Good
+117,Hillstone Primary School,hillstone road,B34 7PY,-1.766124909,52.49329737,Shard End,Mixed,Good
+118,Hodge Hill College,bromford road,B36 8HB,-1.8205279630000002,52.50158216,Hodge Hill,Mixed,Good
+119,Hodge Hill Girls' School,bromford road,B36 8EY,-1.817798574,52.50259384,Hodge Hill,Girls,Good
+120,Hodge Hill Primary School,twycross grove,B36 8LD,-1.816048388,52.50189893,Hodge Hill,Mixed,Requires improvement
+121,Holland House Infant School and Nursery,holland road,B72 1RE,-1.821595619,52.55815715,,Mixed,Outstanding
+122,Holly Hill Methodist CofE Infant School,new street,B45 0EU,-2.01696154,52.40461546,Rubery,Mixed,Good
+123,Hollyfield Primary School,hollyfield road,B75 7SG,-1.8011939540000002,52.56189146,,Mixed,Good
+124,Hollywood Primary School,pickenham road,B14 4TG,-1.879280386,52.40304517,Hollywood,Mixed,Good
+125,Holte School,wheeler street,B19 2EP,-1.9002416290000002,52.50048929999999,Lozells,Mixed,Requires improvement
+126,Holy Cross Catholic Primary School,laburnum drive,B76 2SP,-1.7930485090000001,52.55615989999999,Walmley,Mixed,Good
+127,Holy Family Catholic Primary School,coventry road,B10 0HT,-1.8460061419999998,52.46555925,,Mixed,Good
+128,Holy Souls Catholic Primary School,mallard close,B27 6BN,-1.8189089369999998,52.44736112,Acocks Green,Mixed,Serious Weaknesses
+129,Holy Souls Catholic Primary School,mallard close,B27 6BN,-1.8189089369999998,52.44736112,Acocks Green,Mixed,
+130,Holy Trinity CE Primary Academy (Handsworth),havelock road,B20 3LP,-1.906843277,52.51343114,Handsworth,Mixed,Requires improvement
+131,Holyhead School,milestone lane,B21 0HN,-1.94663839,52.50524789,Handsworth,Mixed,Good
+132,James Brindley School,bell barn road,B15 2AF,-1.906685718,52.46938032,Edgbaston,Mixed,Good
+133,James Watt Primary School,boulton road,B21 0RE,-1.9392792580000002,52.49998523,Soho,Mixed,Good
+134,Jervoise School,jervoise road,B29 5QU,-1.968900246,52.44044703,Weoley Castle,Mixed,Good
+135,John Willmott School,reddicap heath road,B75 7DY,-1.79558003,52.56049742,,Mixed,Requires improvement
+136,John Willmott School,reddicap heath road,B75 7DY,-1.79558003,52.56049742,,Mixed,
+137,King Edward VI Aston School,frederick road,B6 6DJ,-1.885649753,52.50366755,Aston,Boys,
+138,King Edward VI Camp Hill School for Boys,vicarage road,B14 7QJ,-1.903237165,52.43078346,Kings Heath,Boys,
+139,King Edward VI Camp Hill School for Girls,vicarage road,B14 7QJ,-1.9022952080000002,52.43109734,Kings Heath,Girls,Outstanding
+140,King Edward VI Five Ways School,scotland lane,B32 4BT,-1.999322494,52.43210835,Bartley Green,Mixed,
+141,King Edward VI Handsworth School,rose hill road,B21 9AR,-1.92333607,52.50258307,,Girls,Outstanding
+142,King Edward VI Sheldon Heath Academy,sheldon heath road,B26 2RZ,-1.77862062,52.46861699,Sheldon,Mixed,Good
+143,King Solomon International Business School,faraday wharf,B7 4BB,-1.887234904,52.48866484,,Mixed,Special Measures
+144,King Solomon International Business School,faraday wharf,B7 4BB,-1.887234904,52.48866484,,Mixed,
+145,King's Norton Boys' School,northfield road,B30 1DY,-1.941583325,52.41716157,King's Norton,Boys,Good
+146,Kings Heath Boys,hollybank road,B13 0RJ,-1.880371929,52.423399700000004,Kings Heath,Boys,Good
+147,Kings Heath Primary School,valentine road,B14 7AJ,-1.889763761,52.43713662,Kings Heath,Mixed,Good
+148,Kings Norton Girls' School,selly oak road,B30 1HW,-1.9352652019999999,52.42077999,Kings Norton,Girls,Outstanding
+149,Kings Norton Junior and Infant School,pershore road south,B30 3EU,-1.927582926,52.40814589,Kings Norton,Mixed,Special Measures
+150,Kings Rise Academy,hornsey road,B44 0JL,-1.87556183,52.54950585,Kingstanding,Mixed,Requires improvement
+151,Kingsland Primary School (NC),kingsland road,B44 9PU,-1.887678279,52.55759084,,Mixed,Good
+152,Kingsthorne Primary School,cranbourne road,B44 0BX,-1.882447912,52.54428972,Kingstanding,Mixed,Good
+153,Ladypool Primary School,stratford road,B11 1QT,-1.87423552,52.46116948,Sparkbrook,Mixed,Good
+154,Lakey Lane Junior and Infant School,lakey lane,B28 8RY,-1.8309165180000002,52.43153838,Hall Green,Mixed,Good
+155,Langley School,trinity road,B75 6TJ,-1.8255111240000002,52.58009953,,Mixed,Good
+156,Lea Forest Primary Academy,hurstcroft road,B33 9RD,-1.786175485,52.48314966,Kitts Green,Mixed,Good
+157,Leigh Primary School,leigh road,B8 2YH,-1.84724953,52.49761905,Washwood Heath,Mixed,Good
+158,Lindsworth School,monyhull hall road,B30 3QA,-1.905883803,52.41032424,Kings Norton,Mixed,Good
+159,Little Sutton Primary School,worcester lane,B75 5NL,-1.8120508919999998,52.59304089,,Mixed,Outstanding
+160,Longwill A Primary School for Deaf Children,bell hill,B31 1LD,-1.9712089259999999,52.41917726,Northfield,Mixed,Good
+161,Lordswood Boys' School,hagley road,B17 8BJ,-1.965065321,52.47204583,Harborne,Boys,
+162,Lordswood Girls' School and Sixth Form Centre,knightlow road,B17 8QB,-1.9649937519999998,52.46951964,Harborne,Girls,
+163,Lozells Junior and Infant School and Nursery,wheeler street,B19 2EP,-1.900317096,52.49966226,,Mixed,Good
+164,Lyndon Green Infant School,wychwood cresent,B26 1LZ,-1.794753364,52.46022689,Sheldon,Mixed,Good
+165,Lyndon Green Junior School,wensley road,B26 1LU,-1.795704091,52.46054767,Sheldon,Mixed,Requires improvement
+166,Maney Hill Primary School,maney hill road,B72 1JU,-1.8161103669999998,52.55066021,,Mixed,Good
+167,Mansfield Green E-ACT Academy,albert road,B6 5NH,-1.897648925,52.50366772,Aston,Mixed,Outstanding
+168,Mapledene Primary School,mapledene road,B26 3XE,-1.7662453359999999,52.45942344,,Mixed,Good
+169,Marlborough Infant School,marlborough road,B10 9NY,-1.849361078,52.47381912,Small Heath,Mixed,Requires improvement
+170,Marlborough Junior School,green lane,B10 9NY,-1.849374904,52.47414313,Small Heath,Mixed,Requires improvement
+171,Marlborough Junior School,green lane,B10 9NY,-1.849374904,52.47414313,Small Heath,Mixed,
+172,Marsh Hill Primary School,marsh hill,B23 7HY,-1.8678922869999999,52.52517091,Erdington,Mixed,Good
+173,Maryvale Catholic Primary School,old oscott hill,B44 9AG,-1.892097379,52.54795779,Kingstanding,Mixed,Good
+174,Mayfield School,heathfield road,B19 1HJ,-1.909984036,52.50511784,Lozells,Mixed,Serious Weaknesses
+175,Mayfield School,heathfield road,B19 1HJ,-1.909984036,52.50511784,Lozells,Mixed,
+176,Mere Green Primary School,mere green road,B75 5BL,-1.828115194,52.58840852,,Mixed,Outstanding
+177,Merritts Brook Primary E-ACT Academy,trescott road,B31 5QD,-1.992028049,52.41090413,Northfield,Mixed,Good
+178,Minworth Junior and Infant School,water orton lane,B76 9BU,-1.768594859,52.52785052,Minworth,Mixed,Good
+179,Montgomery Primary Academy,white road,B11 1EH,-1.865647876,52.46352438,Sparkbrook,Mixed,Good
+180,Moor Hall Primary School,rowallan road,B75 6RE,-1.814916328,52.58642891,,Mixed,Outstanding
+181,Moseley Church of England Primary School,oxford road,B13 9EH,-1.88437922,52.44305593,Moseley,Mixed,Outstanding
+182,Nansen Primary School,naseby road,B8 3HG,-1.844708302,52.49143963,,Mixed,Special Measures
+183,Nechells Primary E-ACT Academy,eliot street,B7 5LB,-1.86321176,52.50402136,Nechells,Mixed,Good
+184,Nelson Junior and Infant School,king edward's road,B1 2PJ,-1.916688433,52.4810747,Ladywood,Mixed,Good
+185,Nelson Mandela School,colville road,B12 8EH,-1.874558051,52.45642312,Sparkbrook,Mixed,Outstanding
+186,New Oscott Primary School,markham road,B73 6QR,-1.863893773,52.55521955,,Mixed,Good
+187,Nishkam High School,great king street north,B19 2LF,-1.9074108419999998,52.495703500000005,,Mixed,Outstanding
+188,Nishkam Primary School Birmingham,1-7 soho road,B21 9SN,-1.9241786680000001,52.50094746,Handsworth,Mixed,Outstanding
+189,Nonsuch Primary School,wood leasow,B32 3SE,-1.992893225,52.44426269,Woodgate Valley,Mixed,Good
+190,North Birmingham Academy,395 college road,B44 0HF,-1.874650497,52.53388497,,Mixed,Good
+191,Northfield Manor Primary Academy,swarthmore road,B29 4JT,-1.9620394730000001,52.4296211,Selly Oak,Mixed,Good
+192,Oasis Academy Blakenhale Infants,blakenhale road,B33 0XD,-1.782376416,52.47416172,Garrett's Green,Mixed,Good
+193,Oasis Academy Blakenhale Junior,homestead road,B33 0XG,-1.7828071230000002,52.47338942,Garretts Green,Mixed,Good
+194,Oasis Academy Boulton,boulton road,B21 0RE,-1.9385112740000001,52.50148617,,Mixed,Good
+195,Oasis Academy Foundry,foundry road,B18 4LP,-1.9415406240000002,52.49429575,,Mixed,Good
+196,Oasis Academy Hobmoor,wash lane,B25 8FD,-1.819637041,52.4672355,Yardley,Mixed,Good
+197,Oasis Academy Short Heath,streetly road,B23 5JP,-1.858607388,52.53411418,Erdington,Mixed,Good
+198,Oasis Academy Woodview,woodview drive,B15 2HU,-1.905836751,52.46714116,Edgbaston,Mixed,Requires improvement
+199,Osborne Primary School,station road,B23 6UB,-1.8382587719999999,52.527282799999995,Erdington,Mixed,Serious Weaknesses
+200,Osborne Primary School,station road,B23 6UB,-1.8382587719999999,52.527282799999995,Erdington,Mixed,
+201,Oscott Manor School,old oscott hill,B44 9SP,-1.8924535569999998,52.54704114,Erdington,Mixed,Good
+202,Our Lady and St Rose of Lima Catholic Primary School,gregory avenue,B29 5DY,-1.962595445,52.43599689,Weoley Castle,Mixed,Good
+203,Our Lady of Fatima Catholic Primary School,winchfield drive,B17 8TR,-1.97594739,52.46674442,Harborne,Mixed,
+204,Our Lady's Catholic Primary School,east meadway,B33 0AU,-1.7690661509999999,52.48006094,Tile Cross,Mixed,Good
+205,Our Lady's Catholic Primary School,east meadway,B33 0AU,-1.7690661509999999,52.48006094,Tile Cross,Mixed,
+206,Paganel Primary School,swinford road,B29 5TG,-1.968618165,52.44417783,Selly Oak,Mixed,Good
+207,Paget Primary School,paget road,B24 0JP,-1.817792585,52.52187717,Pype Hayes,Mixed,Requires improvement
+208,Park Hill Primary School,alcester road,B13 8BB,-1.887963911,52.45085373,,Mixed,Good
+209,Parkfield Community School,parkfield road,B8 3AX,-1.849486384,52.48528773,Saltley,Mixed,Outstanding
+210,Penns Primary School,berwood road,B72 1BS,-1.816508475,52.53295971,,Mixed,Good
+211,Percy Shurmer Academy,longmore street,B12 9ED,-1.891669425,52.46389262,Balsall Heath,Mixed,Good
+212,Plantsbrook School,upper holland road,B72 1RB,-1.818569584,52.55870986,,Mixed,Good
+213,Priestley Smith School,"perry beeches campus, beeches road",B42 2PY,-1.90767078,52.54052728,Beeches Road,Mixed,Outstanding
+214,Prince Albert Junior and Infant School,albert road,B6 5NH,-1.893220666,52.50420504,Aston,Mixed,
+215,Princethorpe Infant School,princethorpe road,B29 5QB,-1.96878568,52.43603291,Weoley Castle,Mixed,Good
+216,Princethorpe Junior School,princethorpe road,B29 5QB,-1.969064897,52.43633864,Weoley Castle,Mixed,Special Measures
+217,Princethorpe Junior School,princethorpe road,B29 5QB,-1.969064897,52.43633864,Weoley Castle,Mixed,
+218,Queensbridge School,queensbridge road,B13 8QB,-1.893402295,52.44110458,Moseley,Mixed,Outstanding
+219,Queensbury School,wood end road,B24 8BL,-1.840330605,52.51684835,Erdington,Mixed,Serious Weaknesses
+220,Queensbury School,wood end road,B24 8BL,-1.840330605,52.51684835,,Mixed,
+221,Quinton Church Primary School,hagley road west,B32 1AJ,-2.00931553,52.46077706,Quinton,Mixed,Good
+222,Raddlebarn Primary School,gristhorpe road,B29 7TD,-1.9276568219999999,52.43681517,,Mixed,Good
+223,Reaside Academy,tresco close,B45 0HY,-2.02591734,52.40162556,Frankley,Mixed,Good
+224,Rednal Hill Infant School,irwin avenue,B45 8QY,-2.000292693,52.39159913,Rednal,Mixed,Good
+225,Rednal Hill Junior School,irwin avenue,B45 8QY,-2.0014976019999997,52.39129345,Rednal,Mixed,Requires improvement
+226,Regents Park Community Primary School,arthur street,B10 0NJ,-1.868966801,52.47103474,Small Heath,Mixed,Good
+227,Robin Hood Academy,pitmaston road,B28 9PP,-1.831570133,52.42596555,Hall Green,Mixed,Good
+228,Rockwood Academy,naseby road,B8 3HG,-1.8465135819999998,52.49086293,Alum Rock,Mixed,Good
+229,Rookery School,rookery road,B21 9PY,-1.9388367709999998,52.51108752,Handsworth,Mixed,Good
+230,Sacred Heart Catholic School,earlsbury gardens,B20 3AE,-1.900972748,52.509461800000004,Birchfield,Mixed,Special Measures
+231,Sacred Heart Catholic School,earlsbury gardens,B20 3AE,-1.900972748,52.509461800000004,Birchfield,Mixed,
+232,Saint Barnabas Church of England Primary School,spring lane,B24 9BY,-1.832387345,52.52081995,Erdington,Mixed,Good
+233,Saint Barnabas Church of England Primary School,spring lane,B24 9BY,-1.832387345,52.52081995,Erdington,Mixed,
+234,Saltley Academy,belchers lane,B9 5RX,-1.831997154,52.48395163,Bordesley Green,Mixed,Good
+235,Selly Oak Trust School,oak tree lane,B29 6HZ,-1.938279535,52.43510401,Selly Oak,Mixed,Good
+236,Severne Junior Infant and Nursery School,severne road,B27 7HR,-1.821935165,52.43388965,Acocks Green,Mixed,Good
+237,Shaw Hill Primary School,anthony road,B8 3AN,-1.84491418,52.48775849,Alum Rock,Mixed,Outstanding
+238,Shenley Academy,shenley lane,B29 4HE,-1.9769084380000002,52.42988562,,Mixed,Good
+239,Skilts School,gorcott hill,B98 9ET,-1.8627890390000001,52.30785745,Beoley,Boys,Requires improvement
+240,Slade Primary School,slade road,B23 7PX,-1.858009896,52.51362551,Erdington,Mixed,Good
+241,Sladefield Infant School,bamville road,B8 2TJ,-1.832318355,52.49241164,Ward End,Mixed,Outstanding
+242,Somerville Primary (NC) School,somerville road,B10 9EN,-1.8551292259999999,52.47093776,Small Heath,Mixed,Good
+243,Springfield House Community Special School,kenilworth road,B93 0AJ,-1.704616905,52.38340948,Knowle,Mixed,Special Measures
+244,Springfield Primary School,springfield road,B13 9NY,-1.858578272,52.44333453,Moseley,Mixed,Special Measures
+245,St Alban's Catholic Primary School,broad lane,B14 5AL,-1.8886438490000002,52.41454359,Kings Heath,Mixed,Good
+246,St Ambrose Barlow Catholic Primary School,shirley road,B28 9JJ,-1.835281231,52.42458625,Hall Green,Mixed,Outstanding
+247,St Anne's Catholic Primary School,lowe street,B12 0ER,-1.8796265269999999,52.47042573,,Mixed,Good
+248,St Augustine's Catholic Primary School,avenue road,B21 8ED,-1.945124575,52.51421369,Handsworth,Mixed,Good
+249,St Bernadette's Catholic Primary School,hobmoor road,B25 8QL,-1.827679569,52.46886476,Yardley,Mixed,Good
+250,St Bernard's Catholic Primary School,wake green road,B13 9QE,-1.8614037490000002,52.43697205,Moseley,Mixed,Good
+251,St Brigid's Catholic Primary School,frankley beeches road,B31 5AB,-1.97625378,52.41081758,Northfield,Mixed,Good
+252,St Catherine of Siena Catholic Primary School,great colmore street,B15 2AY,-1.9012040730000002,52.47188409,Lee Bank,Mixed,Outstanding
+253,St Chad's Catholic Primary School,hospital street,B19 3XD,-1.901128688,52.49247997,Newtown,Mixed,Good
+254,St Chad's Catholic Primary School,hospital street,B19 3XD,-1.901128688,52.49247997,Newtown,Mixed,
+255,St Clare's Catholic Primary School,robert road,B20 3RT,-1.9132007690000001,52.51009168,Handsworth,Mixed,Requires improvement
+256,St Clement's Church of England Academy,butlin street,B7 5NS,-1.8679081219999998,52.50017902,Nechells,Mixed,Good
+257,St Columba's Catholic Primary School,lickey road,B45 8TD,-1.9909462880000002,52.39469141,Rednal,Mixed,Good
+258,St Cuthbert's RC Junior and Infant (NC) School,gumbleberrys close,B8 2PS,-1.818572949,52.48620637,Off Cotterills Lane,Mixed,Good
+259,St Dunstan's Catholic Primary School,drayton road,B14 7LP,-1.889805374,52.43225512,Kings Heath,Mixed,Good
+260,St Edmund Campion Catholic School & Sixth Form Centre,sutton road,B23 5XA,-1.830641236,52.53033774,Erdington,Mixed,Good
+261,St Edmund's Catholic Primary School,rosebery street,B18 7PA,-1.923215869,52.48701248,Springhill,Mixed,Requires improvement
+262,St Edward's Catholic Primary School,greenland road,B29 7PN,-1.9190526419999998,52.43869931,Selly Park,Mixed,Good
+263,St Francis Catholic Primary School,nursery road,B19 1PH,-1.914226566,52.49775827,Handsworth,Mixed,Good
+264,St Francis Church of England Aided Primary School and Nursery,teazel avenue,B30 1LZ,-1.945619135,52.42331272,Bournville,Mixed,Good
+265,"St George's Church of England Academy, Newtown",st george's street,B19 3QY,-1.903209975,52.49036911,,Mixed,Good
+266,St George's Church of England Primary School,beaufort road,B16 8HY,-1.928480814,52.47315326,,Mixed,Good
+267,St Gerard's RC Junior and Infant School,yatesbury avenue,B35 6LB,-1.786632534,52.52263432,Castle Vale,Mixed,Good
+268,St James Catholic Primary School,leach heath lane,B45 9BN,-2.011886903,52.39231768,Rednal,Mixed,
+269,"St James Church of England Primary School, Handsworth",sandwell road,B21 8NH,-1.949198786,52.50786504,,Mixed,Good
+270,St John and Monica Catholic Primary School,chantry road,B13 8DW,-1.894424539,52.45042808,Moseley,Mixed,Good
+271,St John Fisher Catholic Primary School,alvechurch road,B31 3PN,-1.959777632,52.39367813,West Heath,Mixed,Good
+272,St John Fisher Catholic Primary School,alvechurch road,B31 3PN,-1.959777632,52.39367813,West Heath,Mixed,
+273,St John's CofE Primary School,stratford road,B11 4EA,-1.864572125,52.44950781,Sparkhill,Mixed,Outstanding
+274,St Jude's Catholic Primary School,st jude's close,B14 5PD,-1.889394385,52.40538522,Maypole,Mixed,Good
+275,St Laurence Church Infant School,bunbury road,B31 2DJ,-1.9644494819999998,52.41436435,Northfield,Mixed,Good
+276,St Laurence Church Junior School,bunbury road,B31 2DJ,-1.962787109,52.41488664,Northfield,Mixed,Good
+277,St Margaret Mary RC Junior and Infant School,perry common road,B23 7AB,-1.8637844430000001,52.53329313,,Mixed,Good
+278,St Mark's Catholic Primary School,almond croft,B42 1NU,-1.928632268,52.53450055,Old Walsall Road,Mixed,Outstanding
+279,St Martin de Porres Catholic Primary School,oakland road,B13 9DN,-1.881792286,52.4477282,Moseley,Mixed,Good
+280,St Mary and St John Junior and Infant School,beaufort road,B23 7NB,-1.848274433,52.51660705,Erdington,Mixed,Special Measures
+281,St Mary and St John Junior and Infant School,beaufort road,B23 7NB,-1.848274433,52.51660705,Erdington,Mixed,
+282,St Mary's Catholic Primary School,vivian road,B17 0DN,-1.95215373,52.45649592,Harborne,Mixed,Outstanding
+283,St Mary's Church of England Primary School,lodge hill road,B29 6NU,-1.943054963,52.43908002,Selly Oak,Mixed,Good
+284,"St Marys C of E Primary and Nursery, Academy, Handsworth",hamstead road,B20 2RW,-1.919416557,52.51119287,Handsworth,Mixed,Good
+285,St Matthew's CofE Primary School,duddeston manor road,B7 4JR,-1.8782794409999999,52.48919542,Nechells,Mixed,Outstanding
+286,"St Michael's CofE Primary Academy, Handsworth",piers road,B21 0UX,-1.9248125790000001,52.5006512,Handsworth,Mixed,Requires improvement
+287,St Nicholas Catholic Primary School,jockey road,B73 5US,-1.8398425930000002,52.54980462,,Mixed,
+288,St Patrick's Catholic Primary School,dudley road,B18 7QW,-1.931640445,52.48626241,,Mixed,Good
+289,St Paul's Catholic Primary School,sisefield road,B38 9JB,-1.924628276,52.40118575,Kings Norton,Mixed,Good
+290,St Paul's School for Girls,vernon road,B16 9SL,-1.9407703319999998,52.47556927,Edgbaston,Girls,Outstanding
+291,St Peter and St Paul RC Junior and Infant School,kingsbury road,B24 9ND,-1.823982485,52.51820064,Erdington,Mixed,Good
+292,St Peter and St Paul RC Junior and Infant School,kingsbury road,B24 9ND,-1.823982485,52.51820064,Erdington,Mixed,
+293,St Peter's Catholic Primary School,adams hill,B32 3QD,-1.99977399,52.43631834,Bartley Green,Mixed,Outstanding
+294,St Peters CofE Primary School,old church road,B17 0BE,-1.958211269,52.45423508,Harborne,Mixed,Good
+295,St Saviour's C of E Primary School,alum rock road,B8 1JB,-1.857447497,52.49157256,Saltley,Mixed,Good
+296,St Teresa's Catholic Primary School,butlers road,B20 2NY,-1.9229282619999999,52.51684086,Handsworth Wood,Mixed,Good
+297,St Thomas Aquinas Catholic School,wychall lane,B38 8AP,-1.94732598,52.41004419,Kings Norton,Mixed,Good
+298,St Thomas More Catholic Primary School,horse shoes lane,B26 3HU,-1.782846783,52.45635347,Sheldon,Mixed,Serious Weaknesses
+299,St Thomas More Catholic Primary School,horse shoes lane,B26 3HU,-1.782846783,52.45635347,,Mixed,
+300,St Vincent's Catholic Primary School,vauxhall grove,B7 4HP,-1.875316039,52.48510191,Vauxhall,Mixed,Good
+301,St Wilfrid's Catholic Junior and Infant School,shawsdale road,B36 8LY,-1.800389702,52.50495707,,Mixed,Good
+302,St Wilfrid's Catholic Junior and Infant School,shawsdale road,B36 8LY,-1.800389702,52.50495707,,Mixed,
+303,Stanville Primary School,stanville road,B26 3YN,-1.7791817369999998,52.46236998,,Mixed,Good
+304,Starbank School,starbank road,B10 9LR,-1.832756696,52.47000031,,Mixed,
+305,Stechford Primary School,albert road,B33 8SJ,-1.813152325,52.47958134,Stechford,Mixed,Good
+306,Stirchley Primary School,pershore road,B30 2JL,-1.9231593919999999,52.42612319,Stirchley,Mixed,Good
+307,Stockland Green School,slade road,B23 7JH,-1.8618552240000001,52.523240200000004,Erdington,Mixed,Good
+308,Summerfield Junior and Infant School,cuthbert road,B18 4AH,-1.939662936,52.48874799,Winson Green,Mixed,Requires improvement
+309,Sundridge Primary School,sundridge road,B44 9NY,-1.8962033059999999,52.55777834,Kingstanding,Mixed,Requires improvement
+310,Sutton Coldfield Grammar School for Girls,jockey road,B73 5PT,-1.8298265180000002,52.55428557,,Girls,
+311,Swanshurst School,brook lane,B13 0TW,-1.874183805,52.42967285,Billesley,Girls,Outstanding
+312,Tame Valley Academy,chillinghome road,B36 8QJ,-1.8145699869999998,52.50663432,,Mixed,Good
+313,The Arthur Terry School,kittoe road,B74 4RZ,-1.8361934580000001,52.58964437,Four Oaks,Mixed,
+314,The Bridge School,coppice view road,B73 6UE,-1.876458256,52.55747805,Sutton Coldfield,Mixed,Good
+315,The Dame Ellen Pinsent School,ardencote road,B13 0RW,-1.883096123,52.42756488,Kings Heath,Mixed,Outstanding
+316,The Deanery Church of England Primary School,fox hollies road,B76 2RD,-1.796576784,52.54270826,Walmley,Mixed,Outstanding
+317,The Meadows Primary School,bristol road south,B31 2SW,-1.982036885,52.40412101,Northfield,Mixed,Requires improvement
+318,The Oaklands Primary School,dolphin lane,B27 7BT,-1.8205968369999999,52.44111561,Acocks Green,Mixed,Good
+319,The Oaks Primary School,bells lane,B14 5RY,-1.901352909,52.40507034,Druids Heath,Mixed,Good
+320,The Oratory Roman Catholic Primary School,oliver road,B16 9ER,-1.9285622669999998,52.47744146,Ladywood,Mixed,Requires improvement
+321,The Orchards Primary Academy,rhayader road,B31 1TX,-1.985118965,52.41838862,Northfield,Mixed,Good
+322,The Pines Special School,dreghorn road,B36 8LL,-1.802173147,52.50478929999999,,Mixed,Good
+323,The Rosary Catholic Primary School,bridge road,B8 3SF,-1.8508271719999998,52.48507364,Saltley,Mixed,Good
+324,The Rosary Catholic Primary School,bridge road,B8 3SF,-1.8508271719999998,52.48507364,Saltley,Mixed,
+325,The Shirestone Academy,shirestone road,B33 0DH,-1.76808173,52.47966348,Tile Cross,Mixed,Outstanding
+326,The University of Birmingham School,weoley park road,B29 6QU,-1.947395669,52.43567389,Selly Oak,Mixed,Good
+327,Thornton Primary School,thornton road,B8 2LQ,-1.827979705,52.49082320000001,Ward End,Mixed,Good
+328,Timberley Academy,bradley road,B34 7RL,-1.770995887,52.49692988,Shard End,Mixed,Good
+329,Tiverton Academy,tiverton road,B29 6BW,-1.9326625590000002,52.44357855,Selly Oak,Mixed,Outstanding
+330,Topcliffe Primary School,hawkinge drive,B35 6BS,-1.793760204,52.52071412,Castle Vale,Mixed,Good
+331,Town Junior School,ebrook road,B72 1NX,-1.8177611359999999,52.55801642,,Mixed,Good
+332,Turves Green Boys' School,turves green,B31 4BS,-1.9703550019999998,52.39863469,Northfield,Boys,Special Measures
+333,Turves Green Boys' School,turves green,B31 4BS,-1.9703550019999998,52.39863469,Northfield,Boys,
+334,Turves Green Primary School,northfield,B31 4BP,-1.9689360180000002,52.40019411,,Mixed,Good
+335,Twickenham Primary School,twickenham road,B44 0NR,-1.866574419,52.54669124,Kingstanding,Mixed,Good
+336,Uffculme School,queensbridge road,B13 8QB,-1.893625584,52.43999896,,Mixed,Good
+337,Victoria School,bell hill,B31 1LD,-1.970458284,52.42021989,Northfield,Mixed,Outstanding
+338,Walmley Infant School,walmley ash road,B76 1JB,-1.790933867,52.53554248,Walmley,Mixed,Good
+339,Walmley Junior School,walmley ash road,B76 1JB,-1.790036156,52.53521726,,Mixed,Outstanding
+340,Ward End Primary School,ingleton road,B8 2RA,-1.831855426,52.49796679999999,,Mixed,Outstanding
+341,Warren Farm Primary School,aylesbury crescent,B44 0DT,-1.8765869119999998,52.54153294,Kingstanding,Mixed,Requires improvement
+342,Washwood Heath Academy,burney lane,B8 2AS,-1.819291721,52.49048663,Stechford,Mixed,Good
+343,Water Mill Primary School,water mill close,B29 6TS,-1.94712206,52.44556373,Selly Oak,Mixed,Requires improvement
+344,Wattville Primary School,wattville road,B21 0DP,-1.957350126,52.50401429,Handsworth,Mixed,Good
+345,Waverley School,yardley green road,B9 5QA,-1.82993854,52.47551618,Bordesley Green,Mixed,Good
+346,Waverley Studio College,311 yardley green road,B9 5QA,-1.8297163140000001,52.47588444,Bordesley Green,Mixed,Good
+347,Welford Primary School,welford road,B20 2BL,-1.920018536,52.50419915,Handsworth,Mixed,Good
+348,Welsh House Farm Community School and Special Needs Resources Base,welsh house farm road,B32 2NG,-1.9739535730000002,52.45286348,Quinton,Mixed,Good
+349,West Heath Primary School,rednal road,B38 8HU,-1.95498075,52.39978963,West Heath Primary,Mixed,Good
+350,Westminster Primary School,stamford road,B20 3PN,-1.908280028,52.50987228,Handsworth,Mixed,Good
+351,Wheelers Lane Primary School,wheelers lane,B13 0SF,-1.8876643530000001,52.42857167,Kings Heath,Mixed,Good
+352,Wheelers Lane Technology College,wheelers lane,B13 0SF,-1.887980397,52.42922733,Kings Heath,Boys,Outstanding
+353,Whitehouse Common Primary School,cotysmore road,B75 6BL,-1.811201883,52.57072683,,Mixed,Good
+354,Wilkes Green Infant School (NC),antrobus road,B21 9NT,-1.936348984,52.50946805,Handsworth,Mixed,Special Measures
+355,Wilson Stuart School,perry common road,B23 7AT,-1.868150851,52.53234514,Erdington,Mixed,Outstanding
+356,Woodcock Hill Primary School,farwood road,B31 1BS,-1.9836438719999998,52.43127116,Northfield,Mixed,Requires improvement
+357,Woodgate Primary School,lutley grove,B32 3PN,-2.006191957,52.4372684,Bartley Green,Mixed,Good
+358,Woodhouse Primary Academy,woodhouse road,B32 2DL,-1.9835894719999998,52.45976949999999,Quinton,Mixed,Good
+359,Woodthorpe Junior and Infant School,greenwood close,B14 6ET,-1.896115859,52.41938707,Kings Heath,Mixed,Outstanding
+360,World's End Infant and Nursery School,worlds end lane,B32 2SA,-1.986240178,52.45446573,Quinton,Mixed,Good
+361,World's End Junior School,worlds end lane,B32 2SA,-1.9872996569999999,52.45440293,Quinton,Mixed,Good
+362,Wychall Primary School,middle field road,B31 3EH,-1.950385501,52.40844528,Northfield,Mixed,Good
+363,Wylde Green Primary School,green lanes,B73 5JL,-1.830509445,52.53778121,,Mixed,Good
+364,Wyndcliffe Primary School,little green lane,B9 5BG,-1.859206999,52.47554548,Bordesley Green,Mixed,Good
+365,Yardley Primary School,harvey road,B26 1TD,-1.81129915,52.46531126,Yardley,Mixed,Good
+366,Yardley Wood Community Primary School,school road,B14 4ER,-1.86066141,52.41579957,Yardley Wood,Mixed,Good
+367,Yardleys School,reddings lane,B11 3EY,-1.844159721,52.45072336,Tyseley,Mixed,
+368,Yarnfield Primary School,yarnfield road,B11 3PJ,-1.8366260819999998,52.44592362,Tyseley,Mixed,Requires improvement
+369,Yenton Primary School,chester road,B24 0ED,-1.82381645,52.53026489,Erdington,Mixed,Good
+370,Yenton Primary School,chester road,B24 0ED,-1.82381645,52.53026489,Erdington,Mixed,
+371,Yew Tree Community Junior and Infant School (NC),yew tree road,B6 6RX,-1.882788259,52.51053307,Aston,Mixed,Good
+372,Yorkmead Junior and Infant School,york road,B28 8BB,-1.846372064,52.4407473,Hall Green,Mixed,Good

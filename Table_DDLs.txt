@@ -1,0 +1,37 @@
+create table busroutes (
+	"id" INT
+	"Lat"	FLOAT,
+	"Long" FLOAT,
+	"Bus route Number" INT,
+	"Street" VARCHAR(30),
+	"Area" VARCHAR(30)
+	);
+	
+create table crimes (
+	"id" INT,
+	"Longitude"	FLOAT,
+	"Latitude" FLOAT,
+	"street" VARCHAR(50),
+	"LSOA name" VARCHAR(30)
+	);
+	
+create table house_pricing (
+	"id" INT,
+	"price_paid" INT,
+	"postcode" VARCHAR(30),
+	"property_type" CHAR,
+	"new_build" CHAR,
+	"estate_type" CHAR,
+	"street" VARCHAR(50)
+	);
+	
+create table schools (
+	"id" INT,
+	"School_Name" VARCHAR(80),
+	"STREET" VARCHAR(100),
+	"POSTCODE" VARCHAR(30),
+	"LNG"	FLOAT,
+	"LAT" FLOAT,
+	"LOCALITY" VARCHAR(30),
+	"GENDER" VARCHAR(30),
+	"OFSTEDRATING" VARCHAR(30));
