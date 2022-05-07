@@ -54,10 +54,10 @@ RFC Training Data Score: 0.543272023233301
 RFC Testing Score: 0.3826945412311266>
 
 ## Conclusion
-Unlike our hypothesis suggested, Logistic Regression perfomed better than RFC.
-However, the scores were unaffected by scaling. 
-We did not produce feature optimisation, so further features could be added.
-The model runs well, but accuracy levels could be improved.
+- Unlike our hypothesis suggested, Logistic Regression perfomed better than RFC.
+- The scores were unaffected by scaling. 
+- We did not produce feature optimisation, so further features could be added.
+- The model runs well, but accuracy levels could be improved.
 
 
 ## Further Considerations
