@@ -41,8 +41,24 @@ This project uses the following software and Python libraries:
 - Random forest tends to be the ideal candidate for estimating datasets that are more longitudinal in nature with more complexity and randomness, and usually scaling and preprocessing the data does not affect its results, so our guess is it will perform better in this case.
 
 ## Final Score
+- Unscaled:
+<Logistic Regression Training Data Score: 0.46834462729912874
+Logistic Regression Testing Data Score: 0.4465737514518002
+RFC Training Score: 0.543272023233301
+RFC Testing Score: 0.3826945412311266>
+
+- Scaled:
+< Logistic Regession Training Data Score: 0.47221684414327203
+Logistic Regression Testing Data Score: 0.4465737514518002
+RFC Training Data Score: 0.543272023233301
+RFC Testing Score: 0.3826945412311266>
 
 ## Conclusion
+Unlike our hypothesis suggested, Logistic Regression perfomed better than RFC.
+However, the scores were unaffected by scaling. 
+We did not produce feature optimisation, so further features could be added.
+The model runs well, but accuracy levels could be improved.
+
 
 ## Further Considerations
 
