@@ -20,7 +20,7 @@ Based on data gathered from the UK's Government Website, the Department for Leve
 -   Transportation
 -   Schools in the area
 -   Property type
--   
+
 [Visualisation of the Data using Tableau](https://public.tableau.com/shared/85JZW3QTT?:display_count=n&:origin=viz_share_link)
 
 ## Softwares and libraries used 
@@ -42,16 +42,32 @@ This project uses the following software and Python libraries:
 
 ## Final Score
 - Unscaled:
-<Logistic Regression Training Data Score: 0.46834462729912874
+
+Logistic Regression Training Data Score: 0.46834462729912874
+
 Logistic Regression Testing Data Score: 0.4465737514518002
+
+![2022-10-11](https://user-images.githubusercontent.com/92040392/195129830-f25a1687-d813-4835-a201-9565e150c735.png)
+
 RFC Training Score: 0.543272023233301
-RFC Testing Score: 0.3826945412311266>
+
+RFC Testing Score: 0.3826945412311266
+
+![2022-10-11 (1)](https://user-images.githubusercontent.com/92040392/195130775-09c4a1a0-0518-4de1-8213-9a7558ea6e20.png)
 
 - Scaled:
-< Logistic Regession Training Data Score: 0.47221684414327203
+
+Logistic Regession Training Data Score: 0.47221684414327203
+
 Logistic Regression Testing Data Score: 0.4465737514518002
+
+![2022-10-11 (2)](https://user-images.githubusercontent.com/92040392/195131344-55745a19-8b97-4619-bbac-be90571d6ed7.png)
+
 RFC Training Data Score: 0.543272023233301
-RFC Testing Score: 0.3826945412311266>
+
+RFC Testing Score: 0.3826945412311266
+
+![2022-10-11 (3)](https://user-images.githubusercontent.com/92040392/195131791-7d422a1f-4dfb-4bb0-9b52-61cc7a2ec630.png)
 
 ## Conclusion
 - Unlike our hypothesis suggested, Logistic Regression perfomed better than RFC.
